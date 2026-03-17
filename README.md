@@ -26,10 +26,11 @@
 ## 🛠️ Tech Stack
 
 ### 🐍 Python & Data Science
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 - 📊 Pandas, NumPy  
 - 📈 Matplotlib, Seaborn  
 - 🤖 Machine Learning (Basics)  
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 💻 Backend Development
 - 🌐 REST APIs  
