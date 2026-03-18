@@ -1,7 +1,7 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/16a5ce68-5b86-423b-ae62-aac1653979a3" />
 
-</h1>
+</h1> -->
 
  
  <h3> 𝐇𝐞𝐥𝐥𝐨 I'm Jay Shriram Tiwari, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
