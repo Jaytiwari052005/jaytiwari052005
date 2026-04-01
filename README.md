@@ -41,11 +41,11 @@
 - 🐳 Docker  
 - 🔄 CI/CD  
 - ☁️ AWS (Learning)  
-- 🛠️ Linux  
+- 🛠️ Linux
 
 ### 🧰 Tools
 - 🔧 Git & GitHub  
-- 💻 VS Code  
+- 💻 VS Code / Antigravity
 - 📊 Power BI / Tableau  
 
 ---
